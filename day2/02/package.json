@@ -1,0 +1,19 @@
+{
+  "name": "day02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "http-server": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
