@@ -1,0 +1,16 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "showFile": "./bin/index.js",
+    "changeName": "./bin/changeName.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
