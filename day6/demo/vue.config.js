@@ -1,0 +1,9 @@
+module.exports={
+    devServer:{
+        proxy:{
+            "/list":{
+                target:"http://localhost:9090"
+            }
+        }
+    }
+}
